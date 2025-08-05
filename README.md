@@ -1,3 +1,10 @@
+# MySelf
+Hi my name is Muhammad Azizi Fahmi, I have experience handling full stack environment in production for development and maintenance for almost three years, then I involve in development more than one year.
+
+I used to use Vue 2 and Vue 3 together with Typescript.
+
+For this task its using Svelte kit.
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
